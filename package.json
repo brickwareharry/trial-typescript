@@ -1,0 +1,23 @@
+{
+  "name": "trial-typescript",
+  "version": "1.0.0",
+  "description": "play with typescript and node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brickwareharry/trial-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brickwareharry/trial-typescript/issues"
+  },
+  "homepage": "https://github.com/brickwareharry/trial-typescript#readme",
+  "devDependencies": {
+    "typescipt": "^1.0.0"
+  }
+}
